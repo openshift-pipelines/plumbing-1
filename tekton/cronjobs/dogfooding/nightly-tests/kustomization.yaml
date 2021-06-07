@@ -1,4 +1,0 @@
-namespace: default
-resources:
-- s390x
-- ppc64le

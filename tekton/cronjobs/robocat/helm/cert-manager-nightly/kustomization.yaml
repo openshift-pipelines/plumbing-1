@@ -1,5 +1,0 @@
-bases:
-- ../../../bases/helm
-patchesStrategicMerge:
-- cronjob.yaml
-nameSuffix: "-robocat-cert-manager"

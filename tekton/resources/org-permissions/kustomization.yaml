@@ -1,7 +1,0 @@
-namespace: default
-commonAnnotations:
-  managed-by: Tekton
-
-resources:
-- peribolos.yaml
-- peribolos-trigger.yaml

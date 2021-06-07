@@ -1,9 +1,0 @@
-bases:
-- ../../base
-patchesStrategicMerge:
-- config-artifact-bucket.yaml
-- config-defaults.yaml
-- config-observability.yaml
-- webhook.yaml
-- controller.yaml
-- feature-flags.yaml

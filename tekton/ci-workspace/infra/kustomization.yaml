@@ -1,4 +1,0 @@
-resources:
-- 0001_rbac.yaml
-- ingress.yaml
-- namespace.yaml

@@ -1,14 +1,11 @@
 # The OWNERS file is used by prow to automatically merge approved PRs.
 
-approvers:
-- abayer
-- afrittoli
-- bobcatfish
-- dibyom
-- dlorenc
-- jerop
 - nikhil-thomas
 - savitaashture
-- sbwsg
 - vdemeester
-- wlynch
+- chmouel
+- nikhil-thomas
+- piyush-garg
+- khrm
+- pradeepitm12
+
